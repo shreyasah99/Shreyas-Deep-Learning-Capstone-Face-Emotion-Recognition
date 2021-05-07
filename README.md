@@ -30,6 +30,7 @@ This was a group project which I did with my friend Jatin. We decided we both wi
 The dataset which I used was the FER2013 dataset from kaggle. You can download the dataset from the link below and copy paste the dataset in the folder.
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
  
+![](Structure of model.png)
 
 This was the model structure. In the output layer there were 7 nodes. This model was used to predict emotion in following ways:
 1. First, the haar cascade method is used to detect faces in each frame of the webcam feed.
