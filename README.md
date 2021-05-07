@@ -1,6 +1,8 @@
 **Emotion detection using deep learning**
 
 
+
+
 **Introduction**
 
 We have  built a deep learning model which detects the real time emotions of students through a webcam so that teachers can understand if students are able to grasp the topic according to students' expressions or emotions and then deploy the model. The model is trained on the FER-2013 dataset .This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
@@ -14,17 +16,12 @@ Python 3, OpenCV, Tensorflow
 **Basic Usage**
 
 The repository is currently compatible with tensorflow-2.0 and makes use of the Keras API using the tensorflow.keras library.
-
 First, clone the repository and enter the folder
-
 https://github.com/shreyasah99/Shreyas-Deep-Learning-Capstone-Face-Emotion-Recognition.git
  
  
  
-This was a group project which I did with my friend Jatin. We decided we both will make a model for emotion detection , and the model which gave better accuracy, the further project would be done on that model.
-
-
-This repository contains the model made by me. I built a CNN model to predict emotion from scratch.
+This was a group project which I did with my friend Jatin. We decided we both will make a model for emotion detection , and the model which gave better accuracy, the further project would be done on that model.This repository contains the model made by me. I built a CNN model to predict emotion from scratch.
 
 
 
