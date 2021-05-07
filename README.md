@@ -1,19 +1,19 @@
-**Emotion detection using deep learning**
+# Emotion detection using deep learning
 
 
 
 
-**Introduction**
+## Introduction
 
 We have  built a deep learning model which detects the real time emotions of students through a webcam so that teachers can understand if students are able to grasp the topic according to students' expressions or emotions and then deploy the model. The model is trained on the FER-2013 dataset .This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
 
 
-**Dependencies**
+## Dependencies
 
 Python 3, OpenCV, Tensorflow
  
  
-**Basic Usage**
+## Basic Usage
 
 The repository is currently compatible with tensorflow-2.0 and makes use of the Keras API using the tensorflow.keras library.
 First, clone the repository and enter the folder
@@ -25,7 +25,7 @@ This was a group project which I did with my friend Jatin. We decided we both wi
 
 
 
-**Model Explanation**
+## Model Explanation
 
 The dataset which I used was the FER2013 dataset from kaggle. You can download the dataset from the link below and copy paste the dataset in the folder.
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
